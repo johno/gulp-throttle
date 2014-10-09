@@ -1,6 +1,10 @@
 'use strict';
 
+// Adapted from grunt-throttle by Tiago Quelhas.
+//
+// Original source:
 // https://github.com/tjgq/grunt-throttle/blob/master/tasks/throttle.js
+// https://github.com/tjgq/grunt-throttle/blob/master/LICENSE
 
 var gutil = require('gulp-util'),
     net = require('net'),
