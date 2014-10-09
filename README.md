@@ -26,7 +26,8 @@ gulp.task('throttle', function() {
     remote_port: '8080',
     upstream: 2000,
     downstream: 2000,
-    keep_alive: true });
+    keep_alive: true
+  });
 });
 ```
 
