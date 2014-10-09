@@ -1,6 +1,6 @@
 # Gulp Throttle
 
-Gulp plugin to test websites for slow connections by throttling your stream.
+A gulp plugin to test your web app with slow internet connections. Based off of grunt-throttle.
 
 ## Installation
 

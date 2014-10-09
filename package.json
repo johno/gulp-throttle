@@ -1,7 +1,7 @@
 {
   "name": "gulp-throttle",
   "version": "0.0.1",
-  "description": "A gulp plugin to test slow internet connections. Based off of grunt-throttle.",
+  "description": "A gulp plugin to test your web app with slow internet connections. Based off of grunt-throttle.",
   "main": "index.js",
   "scripts": {
     "test": "gulp test"

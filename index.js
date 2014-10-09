@@ -1,6 +1,6 @@
 'use strict';
 
-// Adapted from grunt-throttle by Tiago Quelhas.
+// Adapted by John Otander from grunt-throttle by Tiago Quelhas.
 //
 // Original source:
 // https://github.com/tjgq/grunt-throttle/blob/master/tasks/throttle.js
