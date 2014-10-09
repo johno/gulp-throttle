@@ -32,7 +32,7 @@ gulp.task('throttle', function() {
 
 ## Acknowledgements
 
-Adapted for the gulp build ecosystem from [grunt-throttle](https://github.com/tjgq/grunt-throttle)
+Adapted for the gulp ecosystem from [grunt-throttle](https://github.com/tjgq/grunt-throttle)
 by Tiago Quelhas.
 
 ## License
