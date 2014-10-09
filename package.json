@@ -1,0 +1,33 @@
+{
+  "name": "gulp-throttle",
+  "version": "0.0.1",
+  "description": "A gulp plugin to test slow internet connections. Based off of grunt-throttle.",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johnotander/gulp-throttle.git"
+  },
+  "keywords": [
+    "gulp",
+    "plugin",
+    "gulp-plugin",
+    "throttle",
+    "connection",
+    "slow",
+    "streams"
+  ],
+  "author": "John Otander",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnotander/gulp-throttle/issues"
+  },
+  "homepage": "https://github.com/johnotander/gulp-throttle",
+  "dependencies": {
+    "gulp-util": "^3.0.1",
+    "net": "^1.0.2",
+    "stream-throttle": "^0.1.3"
+  }
+}
